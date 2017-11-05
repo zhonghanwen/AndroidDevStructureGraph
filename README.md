@@ -5,8 +5,15 @@ the project is aim to combing the dev knowledge, in order to more clearly see wh
 
 # Screenshot
 ![](https://github.com/zhonghanwen/AndroidDevStructureGraph/blob/master/Preview.jpg)
+[*点击高清预览*](https://github.com/zhonghanwen/AndroidDevStructureGraph/blob/master/Android%E7%9F%A5%E8%AF%86%E6%95%B4%E7%90%86.pdf)
 
-
+# TODO
+- [ ] Android基本知识继承补充
+- [ ] 数据结构
+- [ ] 算法
+- [ ] 23种设计模式
+- [ ] Android多媒体
+- [ ] ...
 
 # License
 
